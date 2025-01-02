@@ -40,7 +40,7 @@ Texturing techniques were used to apply colors to the individual cubes of the Ru
 
 ## Code File
 
-You can find the code file for this project [here](rubik's_cube/rubik's_cube/Code.cpp).
+You can find the code file for this project [here](Code.cpp).
 
 ## Future Potential
 
